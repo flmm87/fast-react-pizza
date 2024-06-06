@@ -1,6 +1,6 @@
 # React Web App with Redux Toolkit and React Router
 
-### Welcome to Fast React Pizza! This is a web application built using React, Redux Toolkit, and React Router.
+#### Welcome to Fast React Pizza! This is a web application built using React, Redux Toolkit, and React Router.
 
 
 # Overview
